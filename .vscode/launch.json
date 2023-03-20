@@ -6,6 +6,13 @@
    "configurations": [
       {
          "type": "java",
+         "name": "JavaSwing",
+         "request": "launch",
+         "mainClass": "JavaSwing",
+         "projectName": "java_test_51472f04"
+      },
+      {
+         "type": "java",
          "name": "Current File",
          "request": "launch",
          "mainClass": "${file}"
